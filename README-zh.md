@@ -1,5 +1,5 @@
 # Pytorch Medical Segmentation
-<i>英文版请戳：<a href='https://github.com/MontaEllis/Pytorch-Medical-Classification/blob/master/README.md'>这里！</a></i><br />
+<i>英文版请戳：<a href='https://github.com/MontaEllis/Pytorch-Medical-Classification/blob/main/README.md'>这里！</a></i><br />
 
 
 ## 最近的更新

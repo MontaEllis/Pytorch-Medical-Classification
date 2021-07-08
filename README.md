@@ -1,5 +1,5 @@
 # Pytorch Medical Classification
-<i>Read Chinese Introduction：<a href='https://github.com/MontaEllis/Pytorch-Medical-Classification/blob/master/README-zh.md'>Here！</a></i><br />
+<i>Read Chinese Introduction：<a href='https://github.com/MontaEllis/Pytorch-Medical-Classification/blob/main/README-zh.md'>Here！</a></i><br />
 
 ## Recent Updates
 * 2021.7.7 The train and test codes are released.
