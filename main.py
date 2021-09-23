@@ -109,7 +109,7 @@ def train():
         # model = resnet101(num_classes=2)
 
         # from models.two_d.resnext import resnext101
-        # model = resnext152(class_names=2)
+        # model = resnext101(class_names=2)
         
         # from models.two_d.vggnet import vgg16_bn
         # model = vgg16_bn(num_class=2)
@@ -311,7 +311,7 @@ def test():
         # model = resnet101(num_classes=2)
 
         # from models.two_d.resnext import resnext101
-        # model = resnext152(class_names=2)
+        # model = resnext101(class_names=2)
         
         # from models.two_d.vggnet import vgg16_bn
         # model = vgg16_bn(num_class=2)
